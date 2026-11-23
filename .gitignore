@@ -1,0 +1,16 @@
+# Cache e bytecode do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais (caso alguém do grupo crie um)
+.venv/
+venv/
+env/
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos temporários do Windows
+Thumbs.db
+Desktop.ini
